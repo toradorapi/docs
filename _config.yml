@@ -1,7 +1,12 @@
+title: ToradorAPI Docs
+email: hello@crugg.de
+description: The official Documentation of the ToradorAPI Project.
+baseurl: "/docs"
+url: "https://toradorapi.github.io"
 plugins:
   - jekyll-remote-theme
 remote_theme: chromatical/jekyll-materialdocs
 mdl_colors: orange-amber
-copyright: CRUGG
+copyright: The ToradorAPI Project, CRUGG
 search: true
 menu_style: dropdown
